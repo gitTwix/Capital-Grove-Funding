@@ -2,6 +2,10 @@
 
 A modern, responsive website for Grove Capital Funding — connecting business owners with accessible funding solutions.
 
+## Live Site
+
+https://www.grovecapitalfunding.com
+
 ## Overview
 
 Grove Capital Funding is committed to serving business owners of all sizes and stages. We specialize in delivering business funding and ensuring growth and success. Founded in 2024, we bridge the gap between businesses seeking capital and approval.
